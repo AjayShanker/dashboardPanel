@@ -6,14 +6,7 @@
 ## LOGIN
 ![](login.png)
 
-## DASHBOARD
-![](dashboard.png)
 
-## PROFILE
-![](profile.png)
-
-## USERS
-![](users.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
